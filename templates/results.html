@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Displacify</title>
+</head>
+<body>
+
+    <div>
+        <h2> Displaying NER in Flask</h2>
+    </div>
+
+    
+    
+    <div>
+        <form  method="POST" action="/save">
+            <label>  If the model was unable to classify any entities, please submit them.<br>
+                <textarea rows="2" cols ="25" name = "fb"></textarea>
+            <button type="reset"> Clear</button>
+            <button type="submit"> Submit</button><br><br><br>
+            <h3>Sample:<br>
+            ("An average-sized strawberry has about 200 seeds on its outer surface and are quite edible.",{"entities":[(17,27,"Fruit")]})</h3> </label>
+            <br>
+            <p>You can use <a href="http://agateteam.org/spacynerannotate/">NER annotation tool</a></p>
+            <img src="https://editor.analyticsvidhya.com/uploads/66174Web%20capture_19-6-2022_203232_agateteam.org.jpeg" width="900" height="500"> 
+            </form>
+    </div>    
+            <div>
+            <h2>Result Test</h2>
+    {% for table in tables %}
+                {{titles[loop.index]}}
+                {{ table|safe }}
+    {% endfor %}
+            {{ result|markdown }}
+        </div>
+
+
+
+</body>
+</html>

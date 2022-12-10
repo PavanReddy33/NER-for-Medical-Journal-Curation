@@ -1,0 +1,10 @@
+
+("tion of visual impairment due to AMD has been found to ",{"entities":[(126,138,"Country"),(97,105,"Country"),(159,167,"Country")]}),
+("North of Russia [29] , and 14% in Bulgaria [2] .",{"entities":[(9,16,"Country"),(34,43,"Country")]}),
+("36.3% in the Netherlands [25] , 16.30% in the European ",{"entities":[(13,25,"Country"),(46,54,"Country")]}),
+("vary between 40% in France [27] , 39% in Germany [26] , ",{"entities":[(20,27,"Country"),(41,49,"Country")]}),
+shvhwqsv
+("36.3% in the Netherlands [25] , 16.30% in the European ",{"entities":[(13,25,"Country"),(46,54,"Country")]}),
+("vary between 40% in France [27] , 39% in Germany [26] , ",{"entities":[(20,26,"Country"),(41,49,"Country")]}),
+epidemiology 
+DOI

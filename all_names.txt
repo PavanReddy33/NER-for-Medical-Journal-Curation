@@ -1,0 +1,162 @@
+ofBothnia   ----->  CHEMICAL
+Res   ----->  CHEMICAL
+visual disability   ----->  DISEASE
+UA   ----->  CHEMICAL
+open-an-gle glaucoma   ----->  DISEASE
+Pinchinat   ----->  CHEMICAL
+DOI   ----->  CHEMICAL
+ARMD   ----->  DISEASE
+retinopathy   ----->  DISEASE
+age-related eye disorders  
+Hypertension   ----->  DISEASE
+neo-vascular AMD   ----->  DISEASE
+non-proliferative diabetic retinopathy   ----->  DISEASE
+Stijnen T   ----->  DISEASE
+scotoma   ----->  DISEASE
+high-dose   ----->  CHEMICAL
+hypertension   ----->  DISEASE
+zinc   ----->  CHEMICAL
+Diabetic Reti-nopathy   ----->  DISEASE
+Reduced vision   ----->  DISEASE
+6,418   ----->  DISEASE
+Retinopathy   ----->  DISEASE
+diabetic eye disease   ----->  DISEASE
+prolifera-tive retinopathy   ----->  DISEASE
+VF   ----->  DISEASE
+vasospas-tic syndrome   ----->  DISEASE
+coma   ----->  DISEASE
+dia-betic retinopathy   ----->  DISEASE
+neo-vascular AMD  
+Diabetic retinopathy/epidemiology’[Mesh   ----->  DISEASE
+FL   ----->  CHEMICAL
+‘dry’ AMD   ----->  DISEASE
+IOPItaly   ----->  DISEASE
+Open-angle glaucoma   ----->  DISEASE
+Glaucoma   ----->  DISEASE
+AMD   ----->  DISEASE
+glaucomatous VF defects   ----->  DISEASE
+blindness   ----->  DISEASE
+angle-closure glaucoma   ----->  DISEASE
+BE   ----->  CHEMICAL
+diag-nostic   ----->  DISEASE
+Pfeiffer N, Ce-drone C   ----->  DISEASE
+   ----->  DISEASE
+OHT   ----->  CHEMICAL
+Pappas T   ----->  DISEASE
+trophy   ----->  DISEASE
+diabetic   ----->  DISEASE
+low vision   ----->  DISEASE
+retinal neovascularization   ----->  DISEASE
+Andrada   ----->  CHEMICAL
+diabetes mellitus   ----->  DISEASE
+hypercholesterolaemia   ----->  DISEASE
+AMP   ----->  CHEMICAL
+cancer   ----->  DISEASE
+Th   ----->  CHEMICAL
+pilocarpine   ----->  CHEMICAL
+hypotension/hypertension   ----->  DISEASE
+Visual impairment   ----->  DISEASE
+vi-sion loss   ----->  DISEASE
+MP   ----->  DISEASE
+age-related eye diseases   ----->  DISEASE
+glaucomatous optic nerve   ----->  DISEASE
+choroidal neovascular   ----->  DISEASE
+ening complications of diabetes mellitus   ----->  DISEASE
+Diabetic retinopathy/statistics   ----->  DISEASE
+Non-proliferative   ----->  DISEASE
+Cancer   ----->  DISEASE
+PG   ----->  CHEMICAL
+ocular hyperten-sion   ----->  DISEASE
+Visual loss   ----->  DISEASE
+bevacizumab   ----->  CHEMICAL
+POAG   ----->  DISEASE
+diabetic retinopa-
+Wilson MR   ----->  DISEASE
+choroidal neovascularization   ----->  DISEASE
+lens opacities   ----->  DISEASE
+Deafness   ----->  DISEASE
+Li   ----->  CHEMICAL
+age-related macular degeneration   ----->  DISEASE
+visual loss   ----->  DISEASE
+im-pact   ----->  CHEMICAL
+bavacizumab   ----->  CHEMICAL
+non-proliferative   ----->  DISEASE
+condi-tions   ----->  CHEMICAL
+OPTH   ----->  CHEMICAL
+vitamin E   ----->  CHEMICAL
+glaucomatous   ----->  DISEASE
+open-angle   ----->  DISEASE
+Wilson   ----->  DISEASE
+K   ----->  CHEMICAL
+type II diabetes   ----->  DISEASE
+younger-onset diabetes   ----->  DISEASE
+ocular hypertension   ----->  DISEASE
+primary open-angle glaucoma   ----->  DISEASE
+exudative   ----->  DISEASE
+crite-ria   ----->  CHEMICAL
+neovascular AMD   ----->  DISEASE
+[32] .   ----->  DISEASE
+cataract   ----->  DISEASE
+diabetic nephropathy   ----->  DISEASE
+diabetes   ----->  DISEASE
+cardiovascular disease   ----->  DISEASE
+Diabetic retinopathy   ----->  DISEASE
+diabetic retinopathy   ----->  DISEASE
+Ca   ----->  CHEMICAL
+diabetes-induced blindness   ----->  DISEASE
+Res 2012;47:171–188 188   ----->  CHEMICAL
+Glaucoma S t u d y .   ----->  DISEASE
+hyperglycaemia   ----->  DISEASE
+glau-coma and disease   ----->  DISEASE
+Primary open-angle   ----->  DISEASE
+cup-disc   ----->  CHEMICAL
+atrophy   ----->  DISEASE
+cataracts   ----->  DISEASE
+diabetic retinopa-thy   ----->  DISEASE
+OP HTH   ----->  CHEMICAL
+glaucomatous VF   ----->  DISEASE
+vi-sual loss   ----->  DISEASE
+nasolacrimal canal block-age   ----->  DISEASE
+O’Shea   ----->  CHEMICAL
+sodium   ----->  CHEMICAL
+cold cancer   ----->  DISEASE
+Diabetic Retinopathy   ----->  DISEASE
+MPH   ----->  CHEMICAL
+anxiety   ----->  DISEASE
+CC   ----->  CHEMICAL
+Prog Retin   ----->  CHEMICAL
+depression   ----->  DISEASE
+Blindness   ----->  DISEASE
+Death   ----->  DISEASE
+’   ----->  DISEASE
+Prostaglandin   ----->  CHEMICAL
+CM   ----->  DISEASE
+MK, Rosenthal   ----->  CHEMICAL
+VF loss   ----->  DISEASE
+oedema   ----->  DISEASE
+non-insulin-dependent diabetes mellitus   ----->  DISEASE
+OAG   ----->  DISEASE
+blindness reg-istration   ----->  DISEASE
+JA   ----->  CHEMICAL
+diabetic eye disorders in insulin-dependent diabetes mellitus   ----->  DISEASE
+Diabetic eye disease   ----->  DISEASE
+PD   ----->  DISEASE
+visual impairment   ----->  DISEASE
+open-angle glaucoma   ----->  DISEASE
+Salzburg-Moorfields   ----->  DISEASE
+OHTS   ----->  DISEASE
+ Epidemiology of Eye Diseases   ----->  DISEASE
+diabetic reti-nopathy   ----->  DISEASE
+alcohol   ----->  CHEMICAL
+Res 2012;47:171–188   ----->  CHEMICAL
+age-related macular dystrophy   ----->  DISEASE
+glaucoma   ----->  DISEASE
+N, Weinreb RN   ----->  CHEMICAL
+population-basedcross-sectional4,753   ----->  CHEMICAL
+systemic hyper-tension   ----->  DISEASE
+preproliferative retinopathy   ----->  DISEASE
+diabetic eye disorders   ----->  DISEASE
+DA   ----->  CHEMICAL
+diabetic retinopath   ----->  DISEASE
+maculopathy   ----->  DISEASE
+vision loss   ----->  DISEASE
