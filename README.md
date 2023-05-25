@@ -9,9 +9,13 @@ Our client was confronted with the challenge of accurately identifying and class
 To overcome this challenge, we developed a robust Named Entity Recognition (NER) model specifically designed for medical text using cutting-edge technologies. Leveraging Python, Natural Language Processing (NLP), spaCy, data preprocessing techniques, model selection, evaluation methodologies, data visualization, and Flask, we successfully delivered an outstanding solution. Our NER model achieved an impressive accuracy rate of 80%, effectively identifying and classifying various medical entities crucial for supporting the medical curation process. Moreover, we implemented feature engineering techniques to optimize the model's performance and offered valuable recommendations for data collection and preprocessing strategies.
 
 **🛠️ Technology Stack:**
+
 ✅ Programming Language: Python
+
 ✅ Libraries Used: spaCy, NumPy, pandas, Matplotlib, Flask
+
 ✅ Web Framework Libraries: Flask
+
 ✅ Deployment Tools: Streamlit
 
 **📈 Business Benefits:**
